@@ -39,7 +39,7 @@ This folder contains files for Udacity Deep Laerning Foundations Nanodegree Proj
 
 **dlnd_language_translation.ipynb** - Main project file.
 
-**dlnd_language_translation.html** - Neural network script results file.
+**dlnd_language_translation.html** - Language translation results file.
 
 **problem_unittests.py** - Unit tests provided by Udacity.
 
